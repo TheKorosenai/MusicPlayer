@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_allocation.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_converters.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_cpuload.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_debugprint.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_dither.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_front.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_process.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_ringbuffer.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_stream.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_trace.c">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\hostapi\skeleton\pa_hostapi_skeleton.c">
+      <Filter>hostapi\skeleton</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_win_hostapis.c">
+      <Filter>os\win</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_win_util.c">
+      <Filter>os\win</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_win_waveformat.c">
+      <Filter>os\win</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_win_wdmks_utils.c">
+      <Filter>os\win</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_win_coinitialize.c">
+      <Filter>os\win</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_x86_plain_converters.c">
+      <Filter>os\win</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\hostapi\dsound\pa_win_ds.c">
+      <Filter>hostapi\dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\hostapi\dsound\pa_win_ds_dynlink.c">
+      <Filter>hostapi\dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\hostapi\wmme\pa_win_wmme.c">
+      <Filter>hostapi\wmme</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\hostapi\wasapi\pa_win_wasapi.c">
+      <Filter>hostapi\wasapi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\hostapi\wdmks\pa_win_wdmks.c">
+      <Filter>hostapi\wdmks</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_win_coinitialize.h">
+      <Filter>os\win</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_win_wdmks_utils.h">
+      <Filter>os\win</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\os\win\pa_x86_plain_converters.h">
+      <Filter>os\win</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\hostapi\dsound\pa_win_ds_dynlink.h">
+      <Filter>hostapi\dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\build\options_cmake.h">
+      <Filter>cmake_generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\include\portaudio.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\include\pa_win_ds.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\include\pa_win_waveformat.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\include\pa_win_wmme.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\include\pa_win_wasapi.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\include\pa_win_wdmks.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_allocation.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_converters.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_cpuload.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_debugprint.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_dither.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_endianness.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_hostapi.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_memorybarrier.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_process.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_ringbuffer.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_stream.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_trace.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_types.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\src\common\pa_util.h">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cmake_generated">
+      <UniqueIdentifier>{C7959152-CD54-3C3C-8D96-489ADB944BCA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{2756BBD4-4E77-3888-9585-894767E2AA3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hostapi">
+      <UniqueIdentifier>{76D0F474-DD50-3364-A0A5-6C1B12BF5705}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hostapi\dsound">
+      <UniqueIdentifier>{5139FEF6-4930-3CCA-9F42-33AD59F10437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hostapi\skeleton">
+      <UniqueIdentifier>{E80FAE24-8D0A-3109-91ED-5A10A93E9C09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hostapi\wasapi">
+      <UniqueIdentifier>{3DA18E34-BB44-3FC4-936C-C4C6BF70B809}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hostapi\wdmks">
+      <UniqueIdentifier>{C1E371ED-D33C-3F85-9194-2D308AFB6BB6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hostapi\wmme">
+      <UniqueIdentifier>{6F6BBEE3-90F6-3F40-BBB3-14A02FF88AA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{AAF99094-A289-36A0-958E-046A5107F1F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="os">
+      <UniqueIdentifier>{56D67E58-1F09-300C-98E8-07131997AB39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="os\win">
+      <UniqueIdentifier>{62BC2FD0-2D75-30A3-B59B-9E9A9DC0B8C6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

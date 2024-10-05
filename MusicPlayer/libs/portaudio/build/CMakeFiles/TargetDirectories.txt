@@ -1,0 +1,6 @@
+C:/Users/aksha/Downloads/pa_stable_v190700_20210406/portaudio/build/CMakeFiles/portaudio.dir
+C:/Users/aksha/Downloads/pa_stable_v190700_20210406/portaudio/build/CMakeFiles/portaudio_static.dir
+C:/Users/aksha/Downloads/pa_stable_v190700_20210406/portaudio/build/CMakeFiles/uninstall.dir
+C:/Users/aksha/Downloads/pa_stable_v190700_20210406/portaudio/build/CMakeFiles/INSTALL.dir
+C:/Users/aksha/Downloads/pa_stable_v190700_20210406/portaudio/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aksha/Downloads/pa_stable_v190700_20210406/portaudio/build/CMakeFiles/ZERO_CHECK.dir

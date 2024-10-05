@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\build\CMakeFiles\eba138c73ed48aaa9675926aa3d2ec44\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\aksha\Downloads\pa_stable_v190700_20210406\portaudio\build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5800F435-39AD-3E75-9B14-5BEC9B8DF0EB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
